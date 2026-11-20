@@ -7,9 +7,10 @@ Analysis of a public A/B test (588,101 users) comparing an advertisement with a 
 - Break-even profit-per-sale thresholds are computed across hypothetical ad-cost scenarios.
 - Conversion rises with exposure in both groups, so ad frequency should not be read as causal.
 
-**Files:** `ab_test_analysis.ipynb` (full analysis)
+**Files:** `ab_test_analysis.ipynb` (full analysis) · [`project-plan/`](project-plan/PROJECT_PLAN.md) (follow-up test plan)
 
 **Data:** [Kaggle: Marketing A/B Testing](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing). Download `marketing_AB.csv` and place it next to the notebook to reproduce.
 
 **Tools:** Python, pandas, statsmodels, matplotlib
 <img width="1540" height="812" alt="image" src="https://github.com/user-attachments/assets/c7c9db2c-08ec-4f31-9607-5384c9e2aa7b" />
+
