@@ -102,4 +102,3 @@ Planned backward from the Week 12 readout. The critical path is tracking spec, t
 | D2 | Dependency | Finance delivers cost and revenue definitions by Week 3 | None | High | Finance | Request at kickoff; track in weekly status |
 
 Issues: none open at kickoff. A risk that occurs moves to the issue log with an owner and a due date. Sample sizes are approximate planning figures, to be confirmed in Week 2.
-
