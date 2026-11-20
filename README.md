@@ -14,3 +14,8 @@ Analysis of a public A/B test (588,101 users) comparing an advertisement with a 
 **Tools:** Python, pandas, statsmodels, matplotlib
 <img width="1540" height="812" alt="image" src="https://github.com/user-attachments/assets/c7c9db2c-08ec-4f31-9607-5384c9e2aa7b" />
 
+## Follow-up test: project plan
+
+A planning exercise (hypothetical team and costs) for a balanced, randomized follow-up to this analysis. It covers the project charter, stakeholders and communication plan, work-back schedule, and RAID log.
+
+[Read the project plan](project-plan/PROJECT_PLAN.md)
