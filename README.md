@@ -18,4 +18,4 @@ Analysis of a public A/B test (588,101 users) comparing an advertisement with a 
 
 A planning exercise (hypothetical team and costs) for a balanced, randomized follow-up to this analysis. It covers the project charter, stakeholders and communication plan, work-back schedule, and RAID log.
 
-[Read the project plan](project-plan/PROJECT_PLAN.md)
+[Read the project plan](project-plan/README.md)
